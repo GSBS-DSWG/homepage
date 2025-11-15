@@ -43,8 +43,10 @@ Each workshop is hosted in its own repository so you can clone and run just the 
 
 | Workshop | Instructor | Slides | Code | Repo |
 |----------|-------------|--------|------|------|
-| Workshop 1: Bulk RNA-seq | Dr. Aatish Thennavan  | [Slides](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop/tree/main/slides) | [Code](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop/tree/main/code) | [Repo](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop) |
-| Workshop 2: Single-Cell DNA Methylation | Dr. Ryan Mulqueen | [Slides](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025/tree/main/slides) | [Code](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025/tree/main/code) | [Repo](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025) |
+| Workshop 1: Imaging(?) | Dr. ---------  | [Slides]() | [Code]() | [Repo]() |
+| Workshop 2: Single-Cell RNA-seq | Dr. ---------  | [Slides]() | [Code]() | [Repo]() |
+| Workshop 3: Bulk RNA-seq | Dr. Aatish Thennavan  | [Slides](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop/tree/main/slides) | [Code](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop/tree/main/code) | [Repo](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop) |
+| Workshop 4: Single-Cell DNA Methylation | Dr. Ryan Mulqueen | [Slides](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025/tree/main/slides) | [Code](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025/tree/main/code) | [Repo](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025) |
 
 
 
