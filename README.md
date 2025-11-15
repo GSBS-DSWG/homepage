@@ -4,6 +4,27 @@ Welcome to the **Genetics & Epigenetics (G&E) Data Science Working Group** repos
 
 This repository contains all lecture slides, workshop materials, and example code from our ongoing data science education series.
 
+## Workshop Index
+
+Each workshop is hosted in its own repository so you can clone and run just the workshop you need.
+
+| Workshop | Instructor | Slides | Code | Repo |
+|----------|-------------|--------|------|------|
+| Workshop 1: Imaging(?) | Dr. ---------  | [Slides]() | [Code]() | [Repo]() |
+| Workshop 2: Single-Cell RNA-seq | Dr. ---------  | [Slides]() | [Code]() | [Repo]() |
+| Workshop 3: Bulk RNA-seq | Dr. Aatish Thennavan  | [Slides](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop/tree/main/slides) | [Code](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop/tree/main/code) | [Repo](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop) |
+| Workshop 4: Single-Cell DNA Methylation | Dr. Ryan Mulqueen | [Slides](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025/tree/main/slides) | [Code](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025/tree/main/code) | [Repo](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025) |
+
+
+
+## Getting Started
+
+1. Navigate to the workshop you want to work on by clicking the **Repo** link.
+2. Clone the repo locally:
+```bash
+git clone https://github.com/your-org/workshop-python.git
+```
+
 ## About Us
 
 The G&E Data Science Working Group is a student-led initiative aimed at helping **Master’s and PhD GSBS students** build practical computational and analytical skills. 
@@ -36,27 +57,6 @@ This repository is designed for:
 - Anyone interested in applying quantitative methods to biomedical research problems  
 
 No prior coding or statistics experience is required—materials range from introductory to intermediate.
-
-## Workshop Index
-
-Each workshop is hosted in its own repository so you can clone and run just the workshop you need.
-
-| Workshop | Instructor | Slides | Code | Repo |
-|----------|-------------|--------|------|------|
-| Workshop 1: Imaging(?) | Dr. ---------  | [Slides]() | [Code]() | [Repo]() |
-| Workshop 2: Single-Cell RNA-seq | Dr. ---------  | [Slides]() | [Code]() | [Repo]() |
-| Workshop 3: Bulk RNA-seq | Dr. Aatish Thennavan  | [Slides](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop/tree/main/slides) | [Code](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop/tree/main/code) | [Repo](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop) |
-| Workshop 4: Single-Cell DNA Methylation | Dr. Ryan Mulqueen | [Slides](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025/tree/main/slides) | [Code](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025/tree/main/code) | [Repo](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025) |
-
-
-
-## Getting Started
-
-1. Navigate to the workshop you want to work on by clicking the **Repo** link.
-2. Clone the repo locally:
-```bash
-git clone https://github.com/your-org/workshop-python.git
-```
 
 ## Contact
 
