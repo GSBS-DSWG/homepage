@@ -37,6 +37,25 @@ This repository is designed for:
 
 No prior coding or statistics experience is required—materials range from introductory to intermediate.
 
+## Workshop Index
+
+Each workshop is hosted in its own repository so you can clone and run just the workshop you need.
+
+| Workshop | Description | Slides | Code | Repo |
+|----------|-------------|--------|------|------|
+| Workshop 1: Intro to Python | Learn Python basics for data analysis | [Slides](https://github.com/your-org/workshop-python/tree/main/slides) | [Code](https://github.com/your-org/workshop-python/tree/main/code) | [Repo](https://github.com/your-org/workshop-python) |
+| Workshop 2: Data Wrangling with Pandas | Cleaning, transforming, and summarizing data | [Slides](https://github.com/your-org/workshop-pandas/tree/main/slides) | [Code](https://github.com/your-org/workshop-pandas/tree/main/code) | [Repo](https://github.com/your-org/workshop-pandas) |
+| Workshop 3: Visualization & Plotting | Creating high-quality plots for analysis | [Slides](https://github.com/your-org/workshop-visualization/tree/main/slides) | [Code](https://github.com/your-org/workshop-visualization/tree/main/code) | [Repo](https://github.com/your-org/workshop-visualization) |
+
+
+
+## Getting Started
+
+1. Navigate to the workshop you want to work on by clicking the **Repo** link.
+2. Clone the repo locally:
+```bash
+git clone https://github.com/your-org/workshop-python.git
+```
 
 ## Contact
 
