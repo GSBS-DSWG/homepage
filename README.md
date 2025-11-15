@@ -43,9 +43,8 @@ Each workshop is hosted in its own repository so you can clone and run just the 
 
 | Workshop | Description | Slides | Code | Repo |
 |----------|-------------|--------|------|------|
-| Workshop 1: Intro to Python | Learn Python basics for data analysis | [Slides](https://github.com/your-org/workshop-python/tree/main/slides) | [Code](https://github.com/your-org/workshop-python/tree/main/code) | [Repo](https://github.com/your-org/workshop-python) |
-| Workshop 2: Data Wrangling with Pandas | Cleaning, transforming, and summarizing data | [Slides](https://github.com/your-org/workshop-pandas/tree/main/slides) | [Code](https://github.com/your-org/workshop-pandas/tree/main/code) | [Repo](https://github.com/your-org/workshop-pandas) |
-| Workshop 3: Visualization & Plotting | Creating high-quality plots for analysis | [Slides](https://github.com/your-org/workshop-visualization/tree/main/slides) | [Code](https://github.com/your-org/workshop-visualization/tree/main/code) | [Repo](https://github.com/your-org/workshop-visualization) |
+| Workshop 1: Bulk RNA-seq | Learn Python basics for data analysis | [Slides](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop/tree/main/slides) | [Code](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop/tree/main/code) | [Repo](https://github.com/GSBS-DSWG/Bulk_RNAseq_Workshop) |
+| Workshop 2: Single-Cell DNA Methylation | Cleaning, transforming, and summarizing data | [Slides]((https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025/tree/main/slides)) | [Code](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025/tree/main/code) | [Repo](https://github.com/GSBS-DSWG/Single_Cell_Methylation_Workshop_2025) |
 
 
 
