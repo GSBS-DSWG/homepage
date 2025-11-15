@@ -22,7 +22,7 @@ Each workshop is hosted in its own repository so you can clone and run just the 
 1. Navigate to the workshop you want to work on by clicking the **Repo** link.
 2. Clone the repo locally:
 ```bash
-git clone https://github.com/your-org/workshop-python.git
+git clone https://github.com/GSBS-DSWG/workshop.git
 ```
 
 ## About Us
