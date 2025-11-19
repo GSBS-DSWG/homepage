@@ -1,8 +1,8 @@
 # Genetics & Epigenetics Data Science Working Group
 
-Welcome to the **Genetics & Epigenetics (G&E) Data Science Working Group** repository!  
+Welcome to the **Genetics & Epigenetics (G&E) Data Science Working Group** GitHub!  
 
-This repository contains all lecture slides, workshop materials, and example code from our ongoing data science education series.
+This GitHub contains all lecture slides, workshop materials, and example code from our ongoing data science education series.
 
 ## Workshop Index
 
