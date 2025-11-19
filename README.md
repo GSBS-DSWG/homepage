@@ -22,7 +22,7 @@ Each workshop is hosted in its own repository so you can clone and run just the 
 1. Navigate to the workshop you want to work on by clicking the **Repo** link.
 2. Clone the repo locally:
 ```bash
-git clone https://github.com/GSBS-DSWG/workshop.git
+git clone https://github.com/GSBS-DSWG/workshop_of_interest.git
 ```
 
 ## About Us
@@ -45,7 +45,7 @@ All materials generated for these events will be archived here.
 - 📝 **Example workflows** for common biomedical data science tasks  
 - 🔗 **Links to additional resources** shared during sessions  
 
-Each session has its own folder containing all relevant files.
+Each session has its own repository containing all relevant files.
 
 ## Who This Repository Is For
 
